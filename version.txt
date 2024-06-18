@@ -1,4 +1,4 @@
-2.6
+2.7
 https://investiguser.com/up/Version/InvestigUser_v2.7.zip
 """
 """
